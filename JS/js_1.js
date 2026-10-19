@@ -1,1 +1,0 @@
-alert("Colegio San Jose de Guanenta");
